@@ -1,3 +1,3 @@
 "use strict";
 
-const anyVariable = 1;
+const num = 1;
